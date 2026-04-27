@@ -1,16 +1,15 @@
-## Hi there 👋
+# Merhaba, Ben Civan Yasin 👋
 
-<!--
-**CivanYasinAkman/CivanYasinAkman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bilgisayar mühendisliği/bilimleri alanında eğitimime devam ediyorum. Akademik projeler geliştirmeyi, algoritmalar kurmayı ve yeni teknolojiler keşfetmeyi seviyorum.
 
-Here are some ideas to get you started:
+### 🛠️ İlgilendiğim Teknolojiler ve Araçlar
+* **Programlama Dilleri:** C++, Java, Python, SQL 
+* **Web Geliştirme:** HTML, CSS
+* **Araçlar & Ortamlar:** VS Code, Eclipse, PyCharm, Microsoft SQL Server, LaTeX (Overleaf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Neler Üzerine Çalışıyorum?
+
+
+### 📫 Bana ulaşın: 
+** Gmail: yasin3347577@gmail.com
+** GitHub: https://github.com/CivanYasinAkman
