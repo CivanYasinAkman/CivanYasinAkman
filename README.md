@@ -11,5 +11,5 @@ Bilgisayar mühendisliği/bilimleri alanında eğitimime devam ediyorum. Akademi
 
 
 ### 📫 Bana ulaşın: 
-** Gmail: yasin3347577@gmail.com
-** GitHub: https://github.com/CivanYasinAkman
+* **Gmail:** yasin3347577@gmail.com
+* **GitHub:** https://github.com/CivanYasinAkman
