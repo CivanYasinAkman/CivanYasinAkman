@@ -1,6 +1,6 @@
 # Hi, I'm Civan Yasin Akman 👋
 
-🎓 I am a third-year student at Istanbul Arel University. I am constantly improving my skills in software development, system architecture, and data processing. I enjoy creating algorithms and exploring new technologies.
+🎓 I am a 4th year student at Istanbul Arel University. I am constantly improving my skills in software development, system architecture, and data processing. I enjoy creating algorithms and exploring new technologies.
 
 
 ### 🚀 Focus Areas & Projects
